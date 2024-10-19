@@ -1,0 +1,8 @@
+[package]
+name = "folder_to_text"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.3"
+content_inspector = "0.2"
